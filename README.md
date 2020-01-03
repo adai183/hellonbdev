@@ -22,23 +22,3 @@ This file will become your README and also the index of your documentation.
 ## How to use
 
 Fill me in please! Don't forget code examples:
-<div class="codecell" markdown="1">
-<div class="input_area" markdown="1">
-
-```python
-say_hello("fucker")
-```
-
-</div>
-<div class="output_area" markdown="1">
-
-
-
-
-    'Hello fucker!'
-
-
-
-</div>
-
-</div>
