@@ -8,17 +8,37 @@
 
 -->
 
-# Project name here
+# Hello_NBDev
 
-> Summary description here.
+> an amazing tutorial
 
 
 This file will become your README and also the index of your documentation.
 
 ## Install
 
-`pip install your_project_name`
+`pip install hellonbdev`
 
 ## How to use
 
-Fill me in please! Don't forget code examples:
+Let's see this at work
+<div class="codecell" markdown="1">
+<div class="input_area" markdown="1">
+
+```python
+say_hello("Jeremy")
+```
+
+</div>
+<div class="output_area" markdown="1">
+
+
+
+
+    'Hello Jeremy!'
+
+
+
+</div>
+
+</div>
